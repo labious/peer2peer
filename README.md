@@ -3,10 +3,11 @@ We are creating a platform where young people especially schools goers are able 
 
 
 #App functions/features
-* User can login
+* User can login(As a Healthcare worker/as a peer)
 * User can call health workers
 * User can chat with a health worker
 * User can post questions about health problems anonymously 
+
 * 
 
 
